@@ -20,7 +20,7 @@ the total.
 
 (1) Install node on local machine <br/>
 (2) In Visual Studio Code, install the Code Runner extension <br/>
-(2) Open the cart.js file and hit the Run Code button <br/>
+(3) Open the cart.js file and hit the Run Code button <br/>
 
 <h4>Option 2 (Using an online compiler):</h4>
 (1) Go to https://www.programiz.com/javascript/online-compiler/ <br/>
@@ -43,12 +43,12 @@ You can copy & edit the values to test other scenarios.
 i. The code assumes there are only 3 promos that will ever exist: <br/><br/>
   (1) XforY - 3 for 2 deal in the exercise <br/>
   (2) Free Item - Free other item for every item sold <br/>
-  (2) Bulk discount - Discount is applied when you buy a certain quantity of item <br/>
+  (3) Bulk discount - Discount is applied when you buy a certain quantity of item <br/><br/>
 
 ii. Promotions only exist with items that have these product codes: <br/><br/>
   (1) ult_small <br/>
   (2) ult_medium <br/>
-  (3) ult_large <br/>
+  (3) ult_large <br/><br/>
 
 iii. Promo code only applies to the total price, not individual items.
 
